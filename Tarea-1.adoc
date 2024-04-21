@@ -1,0 +1,46 @@
+= Clase 0 - Aprendiendo a consultar las fuentes
+:hide-uri-scheme:
+
+
+El objetivo es empezar a acostumbrarse a leer *las fuentes* de los conceptos que
+hoy damos por sentado y empezar a fijarnos en el contexto en el que las ideas se
+propusieron originalmente. A esto le llamamos **"cavar profundo"**.
+
+A continuación encontrarás las tareas que recomendamos, de la más importante a
+hasta le menos relevante en este contexto, pero si tienes tiempo de hacerlas todas,
+mejor.
+
+**Nota**: Esta tarea es trabajo para ti, no habrá revisiones, recomendamos discutirla
+con tus compañeros y se dará un espacio para presentar algunas soluciones durante la clase.
+
+== Analizar "MANAGING THE DEVELOPMENT OF LARGE SOFTWARE SYSTEMS" de Winston Royce
+
+La idea es que entiendas de dónde viene el proceso de desarrollo de software en cascada que
+reinó durante mucho tiempo en la industria.
+
+
+Las preguntas que deberías ser capaz de contestar después de leerlo (y tal vez investigar sobre el autor) son:
+
+1. ¿En qué tipo de sistemas se basa la propuesta de Royce?
+2. ¿Por qué era una propuesta muy conveniente el equema que Royce propuso?
+3. ¿Qué críticas se le pueden hacer a la propuesta de Royce?
+4. ¿Por qué no se adapta bien a la mayoría de los sistemas modernos?
+5. ¿En qué tipo de sistemas o proyectos lo utiliztarías hoy?
+
+Puedes encontrar el paper en el drive, junto con el capítulo de un libro que incluye una introducción
+que te ayuda a entenderlo (este documento se llama Ideas that Created The Future...).
+
+== Leer la parte Introducción y Capítulo 1 de la Tesis de Doctorado de Roy Fielding
+
+En estos capítulos puedes empezar a entender cómo hacer un **análisis** de tu problema
+para crear una solución que resuelva los puntos importantes.
+
+Este documento es el que definió la idea que hoy conocemos como REST y como verás, es más
+un paper de arquitectura de software que de APIs.
+
+Puedes encontrar el paper en el drive.
+
+== Software is Details - Kevlin Henney
+
+Ve esta plática y crea un resumen de lo que aprendiste: Software is Details - https://www.youtube.com/watch?v=kX0prJklhUE
+
