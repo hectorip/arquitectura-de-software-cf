@@ -1,0 +1,22 @@
+= Clase 2 - El pensamiento del arquitecto.
+
+El obejtivo de la clase es explorar los aspectos esenciales que 
+un arquitecto debe tener en cuenta para ser efectivo. Cosas como
+el enfoque en los riesgos, en el negocio y la priorización son
+importantes para diseñar software que cumpla con las necesidades
+de nuestros clientes. Otro aspecto que los desarrolladores que
+practican arquitectura no deben olvidar es el enfoque en los
+intercambios de valor o _trade-offs_.
+
+Pero antes de entrar en detalles, vamos a hablar de algo muy importante
+para practicar la arquitectura desde un lugar ventajoso: la filosofía
+del diseño de software y la atquitectura.
+
+
+== Temario
+
+1. Filosofía del diseño de software - Camilo Chacón Sartori
+2. El pensamiento del arquitecto - Alejando Casarrubias
+
+
+
