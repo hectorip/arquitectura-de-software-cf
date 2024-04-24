@@ -16,7 +16,5 @@ del diseño de software y la atquitectura.
 == Temario
 
 1. Filosofía del diseño de software - Camilo Chacón Sartori
-2. El pensamiento del arquitecto - Alejando Casarrubias
-
-
+2. El pensamiento del arquitecto - Alejandro Casarrubias
 
