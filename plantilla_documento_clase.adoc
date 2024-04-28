@@ -1,12 +1,14 @@
 = Título de la clase
+Fehace de la clase
 
 *Objetivo*: Lo que tenemos que lograr en la clase, es lo más importante.
+*Motivación*: Por quee es importante este tema.
 *Prerrequisitos o pretrabajo*: Qué necesitan los alumnos saber o hacer
 para beneficiarse de la clase.
 
 
-== Temas
 
+== Temas
 
 Lista de temas o subtemas a cubrir lo más detalladamentes posible.
 
@@ -14,7 +16,6 @@ Lista de temas o subtemas a cubrir lo más detalladamentes posible.
 == Actividades
 
 Plan de actividades de la clase
-
 
 == Tutores
 
