@@ -13,10 +13,17 @@ y riesgos.
 == Temas
 
 . Decisiones de arquitectura: evitar pensar sólo en los resultados
-
 . Los elementos guía de la arquitectura
 . Qué documentar
 . Cómo documentar
   . Técnicas de documentación
 . Plantillas útiles
 
+
+== Fuentes
+
+
+== Recursos
+
+
+== Comentarios extra 

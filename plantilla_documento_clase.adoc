@@ -1,0 +1,34 @@
+= Título de la clase
+
+*Objetivo*: Lo que tenemos que lograr en la clase, es lo más importante.
+*Prerrequisitos o pretrabajo*: Qué necesitan los alumnos saber o hacer
+para beneficiarse de la clase.
+
+
+== Temas
+
+
+Lista de temas o subtemas a cubrir lo más detalladamentes posible.
+
+
+== Actividades
+
+Plan de actividades de la clase
+
+
+== Tutores
+
+Nombre y semblanza de los tutores.
+
+== Fuentes
+
+Fuentes de información que se utilizarán para preparar la clase.
+
+== Recursos
+
+Documentos o materiales que se utilizarán durante la clase.
+
+== Notas extra
+
+Cualquier aclaración o nota a tomar en cuenta para que la clse se lleve
+de le mejor forma posible.
