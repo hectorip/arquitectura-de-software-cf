@@ -1,0 +1,22 @@
+= Decisiones y documentación de arquitectura
+
+
+*Objetivo*: Hablar del proceso de toma de decisiones y establecer una
+propuesta para registrar los resultados de esa toma de decisiones de manera
+pragmática y con una estructura que nos de un inicio.
+
+
+*Prerequisitos:* Curso de instroducción a la arquitectura de software, para tener claro cuáles son los
+elementos guiadores del diseño de software: funciones, atributos estructurales, restricciones, principios
+y riesgos.
+
+== Temas
+
+. Decisiones de arquitectura: evitar pensar sólo en los resultados
+
+. Los elementos guía de la arquitectura
+. Qué documentar
+. Cómo documentar
+  . Técnicas de documentación
+. Plantillas útiles
+
