@@ -6,8 +6,6 @@ Fehace de la clase
 *Prerrequisitos o pretrabajo*: Qué necesitan los alumnos saber o hacer
 para beneficiarse de la clase.
 
-
-
 == Temas
 
 Lista de temas o subtemas a cubrir lo más detalladamentes posible.
