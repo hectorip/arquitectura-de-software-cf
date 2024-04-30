@@ -1,0 +1,4 @@
+= Tradeoffs y Riesgos
+
+. Decisiones de arquitectura: evitar pensar sólo en los resultados
+
