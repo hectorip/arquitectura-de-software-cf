@@ -10,20 +10,31 @@ y riesgos.
 
 == Temas
 
-. Los elementos guía de la arquitectura
+. Documentación => Knolwedge Base
+. ¿Por qué es importante?
 . Qué documentar
+. Otras alternativas - ARC42
+. Aclaraciones - La base de conocimiento depende de la organización a la que pertenezcas
 . Cómo documentar
-  . Técnicas de documentación
+. Otros formatos de documentos
+  . ADR 
+  . Desgin Document
+. Herramientas
 . Plantillas útiles
 
+== Counterpoints
+
+Arquitectura enterprise
+- VisualParadigm
 
 == Fuentes
 
+
 == Recursos
 
+- Hipothesis Drive Deesign - https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE
 == Comentarios extras
 
 == Caso práctico
-
 Creando un sistema de recomendación arbitrario
 
