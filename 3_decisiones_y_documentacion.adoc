@@ -29,7 +29,6 @@ Arquitectura enterprise
 
 == Fuentes
 
-
 == Recursos
 
 - Hipothesis Drive Deesign - https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE

@@ -1,0 +1,18 @@
+block-beta
+columns 1
+  %% Definiciones y estructura
+  APIGateway
+  space
+  ConnectionManager
+  space
+  RecomendationEngine
+  space
+  db[("DataStore")]
+  space
+  admin["Admin Interface"]
+  
+  %% Conexiones
+  APIGateway <--> ConnectionManager
+  ConnectionManager --> RecomendationEngine
+  admin --> db
+  db --> RecomendationEngine
