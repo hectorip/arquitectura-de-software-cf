@@ -4,14 +4,17 @@
 *Objetivo*: Entender cómo la arquitectura de software debe estar guiada por los
 riesgos y que los intercambios de valor que son inveitables tienen que ser
 considerados, manejados y expresados de forma clara.
-*Motivación*: Pensar en una o
-*Prerrequisitos o pretrabajo*: Qué necesitan los alumnos saber o hacer
-para beneficiarse de la clase.
+*Motivación*: Pensar que existe la solución perfecta es un error que cometemos
+muy seguido como desarrolladores de software. Y pensar siempre en posutivo lleva
+a desastres que queremos evitar.
+*Prerrequisitos o pretrabajo*: Tener claros los drivers comunes de la arquitectura.
 
 == Temas
 
-Lista de temas o subtemas a cubrir lo más detalladamentes posible.
-
+1. Tradeoffs: ¿Qué son? ¿Cómo reconocerlos y documentarlos? ¿Cómo elegir entre
+una solución y otra?
+2. Riesgos: ¿Qué son? ¿Cómo reconocerlos y documentarlos? ¿Cómo diseñar para mitigarlos?
+3. El proceso de toma de decisiones: ¿Cómo se toman decisiones en arquitectura?
 
 == Actividades
 
