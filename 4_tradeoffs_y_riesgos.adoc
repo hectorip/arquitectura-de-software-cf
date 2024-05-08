@@ -2,27 +2,30 @@
 **11-05-2024**
 
 *Objetivo*: Entender cómo la arquitectura de software debe estar guiada por los
-riesgos y que los intercambios de valor que son inveitables tienen que ser
+riesgos y que los intercambios de valor que son inveitables y tienen que ser
 considerados, manejados y expresados de forma clara.
 *Motivación*: Pensar que existe la solución perfecta es un error que cometemos
-muy seguido como desarrolladores de software. Y pensar siempre en posutivo lleva
+muy seguido como desarrolladores de software. Y pensar siempre en positivo lleva
 a desastres que queremos evitar.
-*Prerrequisitos o pretrabajo*: Tener claros los drivers comunes de la arquitectura.
+*Prerrequisitos o pretrabajo*: Tener claros los drivers comunes de la arquitectura:
+Atributos arquitectónicos, funciones, restricciones, principios y riesgos.
 
 == Temas
 
-1. Tradeoffs: ¿Qué son? ¿Cómo reconocerlos y documentarlos? ¿Cómo elegir entre
-una solución y otra?
+1. Tradeoffs: ¿Qué son? ¿Cómo reconocerlos y documentarlos? ¿Cómo hacer un análisis
+de tradeoffs?
 2. Riesgos: ¿Qué son? ¿Cómo reconocerlos y documentarlos? ¿Cómo diseñar para mitigarlos?
-3. El proceso de toma de decisiones: ¿Cómo se toman decisiones en arquitectura?
+3. Evitar el resulting: ¿Qué es? ¿Cómo evitarlo?
+4. 
 
 == Actividades
 
-Plan de actividades de la clase
+1. Que creen su propio análisis de tradeoffs para su sistema.
 
 == Tutores
 
-Nombre y semblanza de los tutores.
+Rodrigo Rodríguez
+Héctor Patricio
 
 == Fuentes
 
@@ -30,9 +33,8 @@ Fuentes de información que se utilizarán para preparar la clase.
 
 == Recursos
 
-Documentos o materiales que se utilizarán durante la clase.
-
 == Notas extra
 
 Cualquier aclaración o nota a tomar en cuenta para que la clse se lleve
 de le mejor forma posible.
+
