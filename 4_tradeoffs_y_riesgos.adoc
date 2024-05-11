@@ -35,6 +35,4 @@ Fuentes de información que se utilizarán para preparar la clase.
 
 == Notas extra
 
-Cualquier aclaración o nota a tomar en cuenta para que la clse se lleve
-de le mejor forma posible.
-
+Debemos parte de la clase de herramientas para hacer documentación
