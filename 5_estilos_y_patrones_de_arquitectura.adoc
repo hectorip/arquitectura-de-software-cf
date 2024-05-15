@@ -1,8 +1,9 @@
 = Estilos y patrones de arquitectura
 18-Mayo-2024, 11AM GMT-6 (CDMX)
 
-*Objetivo*: 
-*Motivación*: Por quee es importante este tema.
+*Objetivo*: Introducción a los estilos de arquitectura y empezar a analizar
+su relación con los atributos arquitectónicos.
+*Motivación*: Por que es importante este tema.
 *Prerrequisitos o pretrabajo*: Qué necesitan los alumnos saber o hacer
 para beneficiarse de la clase.
 
