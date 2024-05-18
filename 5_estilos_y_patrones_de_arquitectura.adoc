@@ -3,9 +3,15 @@
 
 *Objetivo*: Introducción a los estilos de arquitectura y empezar a analizar
 su relación con los atributos arquitectónicos.
-*Motivación*: Por que es importante este tema.
-*Prerrequisitos o pretrabajo*: Qué necesitan los alumnos saber o hacer
-para beneficiarse de la clase.
+*Motivación*: Construir arquitecturas efectivas depende de entender los
+elementos que le dan forma. Los estilos y patrones de arquitectura te
+dan varias cosas:
+1. Un conjunto de herramientas para resolver problemas comunes, sin tener
+que descubrirlo todo de nuevo.
+2. Un lenguaje común para discutir y documentar decisiones.
+
+*Prerrequisitos o pretrabajo*: Estudiar los el módulo 3 del curso grabado
+de arquitectura.
 
 == Temas
 
