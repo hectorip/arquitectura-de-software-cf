@@ -15,8 +15,10 @@ de arquitectura.
 
 == Temas
 
-Lista de temas o subtemas a cubrir lo más detalladamentes posible.
-
+1. Surgimiento de la idea de patrones y estilos.
+2. Definiición de patrones de arquitectura.
+3. Definición de estilos de arquitectura.
+4. Patrones y su relación con atributos arquitectónicos.
 
 == Actividades
 
