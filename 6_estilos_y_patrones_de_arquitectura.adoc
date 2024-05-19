@@ -10,8 +10,10 @@ para beneficiarse de la clase.
 
 == Temas
 
-Lista de temas o subtemas a cubrir lo más detalladamentes posible.
-
+1. De dónde surge la idea de patrones
+2. Diferencia entre "patrones de diseño" y patrones de arquitectura.
+3. Estilos de arquitectura
+4. Cómo elegir un estilo o patrón de arquitectura
 
 == Actividades
 
