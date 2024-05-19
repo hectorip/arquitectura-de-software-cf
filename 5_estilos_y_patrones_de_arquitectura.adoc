@@ -18,11 +18,12 @@ de arquitectura.
 1. Surgimiento de la idea de patrones y estilos.
 2. Definiición de patrones de arquitectura.
 3. Definición de estilos de arquitectura.
-4. Patrones y su relación con atributos arquitectónicos.
+4. Patrones, Estilos y su relación con atributos arquitectónicos.
+5. 
 
 == Actividades
 
-Plan de actividades de la clase
+1. Dar ejemplos concretos de riesgos que se en los proyectos de software en los que ellos hayan trabajado.
 
 == Tutores
 
@@ -40,3 +41,4 @@ Documentos o materiales que se utilizarán durante la clase.
 
 Cualquier aclaración o nota a tomar en cuenta para que la clse se lleve
 de le mejor forma posible.
+
