@@ -1,0 +1,35 @@
+= Estilos y patrones de arquitectura parte 1
+25-Mayo-2024
+
+*Objetivo*: Relacionar los estilos y patrones de arquitectura con los atributos estructurales
+y empezar a analizar cómo podemos escoger el patrón más adecuado para las 
+situaciones que nos enfrentamos.
+*Motivación*: Por quee es importante este tema.
+*Prerrequisitos o pretrabajo*: Qué necesitan los alumnos saber o hacer
+para beneficiarse de la clase.
+
+== Temas
+
+Lista de temas o subtemas a cubrir lo más detalladamentes posible.
+
+
+== Actividades
+
+Plan de actividades de la clase
+
+== Tutores
+
+Nombre y semblanza de los tutores.
+
+== Fuentes
+
+Fuentes de información que se utilizarán para preparar la clase.
+
+== Recursos
+
+Documentos o materiales que se utilizarán durante la clase.
+
+== Notas extra
+
+Cualquier aclaración o nota a tomar en cuenta para que la clse se lleve
+de le mejor forma posible.
