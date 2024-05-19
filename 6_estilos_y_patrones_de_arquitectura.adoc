@@ -4,34 +4,42 @@
 *Objetivo*: Relacionar los estilos y patrones de arquitectura con los atributos estructurales
 y empezar a analizar cómo podemos escoger el patrón más adecuado para las 
 situaciones que nos enfrentamos.
-*Motivación*: Por quee es importante este tema.
-*Prerrequisitos o pretrabajo*: Qué necesitan los alumnos saber o hacer
-para beneficiarse de la clase.
+*Motivación*: Casi siempre que se piensa en arquitectura de software, lo
+primero que se nos viene a la mente son estos patrones, pero saber la composición
+de estos no es suficiente, es necesario entender por qué existen y con
+que nos pueden ayudar.
+*Prerrequisitos o pretrabajo*: Ver por lo menos módulo 3 del curso de Introducción a la
+arquitectura de software.
 
 == Temas
 
 1. De dónde surge la idea de patrones
+  1.1 Los patrones como soluciones
+  1.2 Los patrones como un lenguaje
 2. Diferencia entre "patrones de diseño" y patrones de arquitectura.
 3. Estilos de arquitectura
 4. Cómo elegir un estilo o patrón de arquitectura
+5. Estilos y patrones modernos => Clean arquitecture, Hexagonal, Onion, etc.
 
 == Actividades
 
-Plan de actividades de la clase
+Empezar a comparar los diferentes patrones para su trabajo final.
 
 == Tutores
 
-Nombre y semblanza de los tutores.
+Héctor y Rodrigo
 
 == Fuentes
 
-Fuentes de información que se utilizarán para preparar la clase.
+1. Foundamental of Software Architecture
+2. Software Architecture in Practice
+3. Software Architecture, The Hard Parts
 
 == Recursos
 
-Documentos o materiales que se utilizarán durante la clase.
+??
 
 == Notas extra
 
-Cualquier aclaración o nota a tomar en cuenta para que la clse se lleve
-de le mejor forma posible.
+No centratse en la estructura de los patrone de diseño, sino en
+en la forma de escogerlos.
