@@ -4,11 +4,14 @@
 *Objetivo*: Relacionar los estilos y patrones de arquitectura con los atributos estructurales
 y empezar a analizar cómo podemos escoger el patrón más adecuado para las 
 situaciones que nos enfrentamos.
+
 *Motivación*: Casi siempre que se piensa en arquitectura de software, lo
 primero que se nos viene a la mente son estos patrones, pero saber la composición
 de estos no es suficiente, es necesario entender por qué existen y con
 que nos pueden ayudar.
+
 *Prerrequisitos o pretrabajo*: Ver por lo menos módulo 3 del curso de Introducción a la
+  
 arquitectura de software.
 
 == Temas
@@ -37,7 +40,7 @@ Héctor y Rodrigo
 
 == Recursos
 
-??
+Investigar recursos
 
 == Notas extra
 
