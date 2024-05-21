@@ -1,0 +1,7 @@
+= Lineamientos del proyecto final del Bootacamp de Arquitectura de Software
+
+En este documento encontrarás todos los requisitos y el proceso para entregar el proyecto final del Bootcamp.
+
+== Proyecto
+
+El proyecto final...
