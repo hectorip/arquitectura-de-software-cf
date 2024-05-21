@@ -4,4 +4,44 @@ En este documento encontrarás todos los requisitos y el proceso para entregar e
 
 == Proyecto
 
-El proyecto final...
+El proyecto final del Bootcamp consiste en que documentes
+la creación de la arquitectura de un proyecto de software lo más real posible.
+
+Este puede proyecto puede ser:
+
+- Un proyecto *pequeño* independiente y que tú hayas ideado.
+- Un módulo o función de otro proyecto más grande, sea personal o de tu trabajo
+(siempre y cuando puedas compartirlo)
+- Una aplicación móvil
+- El frontend de una aplicación web
+- Una API
+
+En cualquier caso, recomendamos que el proyecto no tenga más de tres funciones
+de tu dominio, ya que el objetivo es que tengas el conjunto completo
+de documentos que demuestren que hiciste todos los análisis
+necesarios para crear una buena arquitectura y no te queremos cargar de trabajo.
+
+Habrá menciones especiales para los proyectos que puedan entregar el software
+corriendo, pero comprendemos que no podrá ser así en todos los casos
+por las restricciones de tiempo.
+
+Sin embargo, es muy importante que se muestre mediante ADR's cómo es que la
+la documentación fue avanzando, es decir, cómo es que la arquitectura fue
+cambiando conforme se iban descubriendo más cosas del proyecto.
+
+La excepción al punto anterior es aquellos proyectos en los que se determine
+que se requiere un análisis exhaustivo de la arquitectura antes de comenzar
+con la programación, por la naturaleza y los riesgos del proyecto.
+
+
+== Entregables
+
+Base de conocimientos que exprese la arquitectura del sistema de la forma más
+más clara posible. El conjunto de documentos a entregar será determinado
+por el proyecto que desarrolles. Y la visión de este cuso es que se debe entregar
+la mínima documentación necesaria.
+
+Fecha Límite de entrega: 
+
+== Fase 2
+
