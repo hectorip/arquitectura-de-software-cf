@@ -41,7 +41,21 @@ más clara posible. El conjunto de documentos a entregar será determinado
 por el proyecto que desarrolles. Y la visión de este cuso es que se debe entregar
 la mínima documentación necesaria.
 
-Fecha Límite de entrega: 
+Fecha Límite de entrega: 5 de Agosto de 2024
+
 
 == Fase 2
+
+Para la fase dos del prpoyedcto final, se entregará la base de conocimientos
+a otro equipo que haya hehcho también su entrega final para que sea evaluada.
+
+Lo que se espera de esta etapa es que el equipo que recibe la base de documentción
+**evalue** la arquitectura del equpo que entrega y se tenga la cominicación
+necesaria para implementar las mejoras o defender las decisiones.
+
+== Entregables Fase 2
+
+En esta etapa se espera un reporte del análisis de la arquitectura
+y cómo se resolvieron los puntos que se encontraron. El formato es libre
+
 
