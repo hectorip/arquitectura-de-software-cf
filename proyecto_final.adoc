@@ -43,7 +43,6 @@ la mínima documentación necesaria.
 
 Fecha Límite de entrega: 5 de Agosto de 2024
 
-
 == Fase 2
 
 Para la fase dos del prpoyedcto final, se entregará la base de conocimientos
@@ -57,5 +56,11 @@ necesaria para implementar las mejoras o defender las decisiones.
 
 En esta etapa se espera un reporte del análisis de la arquitectura
 y cómo se resolvieron los puntos que se encontraron. El formato es libre
+
+== Evaluación final
+
+-> Plantillas completas
+-> Lista de documento
+
 
 
