@@ -62,5 +62,3 @@ y cómo se resolvieron los puntos que se encontraron. El formato es libre
 -> Plantillas completas
 -> Lista de documento
 
-
-
