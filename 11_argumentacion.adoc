@@ -1,0 +1,49 @@
+
+= Argumentación para desarrolladores de software
+29 de Junio de 2024
+
+*Objetivo*: Darle a los alumnos herramientas para defender sus *propuestas*
+en un entorno de trabajo formal, frente a personas que probablemente tienen los mismos
+objetivos (que un proyecto sea exitoso o que la empresa avance) pero que pueden pensar
+que la forma de alcanzarlo es diferente. Por ejemplo: por qué no se puede sacar un proyecto en X tiempo. 
+
+*Motivación*: Los desarrolladores de software que tienen que presentar propuestas no tienen la formación o
+las herramientas para crear argumentos sólidos a menos 
+*Prerrequisitos o pretrabajo*: Paulo define
+
+== Temas
+
+1. Teoría básica de argumentación: qué es / esquemas básicos: esto es para que
+tengan una base _cuando preparan un documento o se preparan para una presentación_.
+2. Cómo analizar una propuesta: qué elementos tiene, cómo se pueden atacar o defender.
+3. Formas de analizar la argumentación en vivo (en una reunión, por ejemplo): porque muchas
+veces no van a tener tiempo de preparar una presentación formal.
+
+== Actividades
+
+Paulo define
+
+== Tutores
+
+Paulo Sepúlveda: _necesito una semblanza de Paulo_.
+
+== Fuentes
+
+Si tienes fuentes formales, aquí van.
+
+== Recursos
+
+Si necesitamos recursos extra, aquí van.
+
+== Notas
+
+Aquí algunos ejemplos de las argumentaciones que los alumnos pudieran enfrentarse:
+
+1. El desarrollador tiene que presentar el proyecto y el equipo de trabajo necesario
+par llevarlo a cabo en el tiempo establecido. Pero el de recursos humanos dice que no
+hay presupuesto para contratar a más gente. ¿Cómo argumentar que sí es necesario o llegar
+a un punto intermedio?
+
+
+
+
