@@ -1,0 +1,40 @@
+= Arquitectura de Datos
+22 de Junio de 2024 - 11:00 AM
+
+*Objetivo*: Comprender los conceptos básicos y las técnicas para diseñar una arquitectura de datos.
+*Motivación*: Los datos
+*Características  del grupo*: Aprox. 80 asistentes con grados de experiencia desde 3 hasta 20 años programando. 
+Son participativos, amables y hacen preguntas sobre todo cuando se tratan temas con los que han tenido
+problemas en el pasado.
+**Duración**: 3 horas
+**Estructura recomendada**: Recomiendo el siguiente esquema para la clase:
+- Conectarse 15 minutos antes para pruebas de audio, video y compartir pantalla.
+- 5 minutos de tolerancia para que todos entren 
+- Bloque 1: 45-50 minutos de clase y 5-10 minutos de descanso
+- Bloque 2: 50 minutos de clase y 10 minutos de descanso
+- Bloque 3: 55 minutos de clase y 5 minutos de **preguntas**
+
+== Temas
+
+Aquí recomiendo los temas que creo que se pueden tratar para cubrir el objetivos de la clase:
+
+- Cómo diseñar la arquitectura de datos de un sistema: 
+  - ¿Qué es la arquitectura de datos?
+  - Definir los requerimientos de datos
+  - Diseñar el modelo de datos
+  - Cómo definir la arquitectura de datos
+- Tipos de procesamiento de datos en las aplicaciones
+  - OLTP
+  - OLAP
+  - La importancia de distinguirlos al diseñar la arquitectura de datos
+- Tácticas para enfrentarse a los problemas d que surgen al tratar datos
+  - Escalabilidad y Disponibilidad: Replicación, particionamiento, sharding
+  - Consistencia: Transacciones, ACID, BASE
+  - Seguridad: Encriptación, autenticación, autorización
+  - Rendimiento: Índices, particionamiento, caché
+
+
+== Tutores
+
+Carlos Haro - Maestrazo de la ciencia de datos y MLOPs.
+
