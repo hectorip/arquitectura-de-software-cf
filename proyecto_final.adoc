@@ -1,5 +1,11 @@
 = Lineamientos del proyecto final del Bootacamp de Arquitectura de Software
 
+---
+
+*Fecha de entrega de primera fase*: 12 de Agosto de 2024
+
+*Fecha de entrega de segunda fase*: 14 de Septiembre de 2024
+
 En este documento encontrarás todos los requisitos y el proceso para entregar el proyecto final del Bootcamp.
 
 == Proyecto
@@ -34,32 +40,50 @@ que se requiere un análisis exhaustivo de la arquitectura antes de comenzar
 con la programación, por la naturaleza y los riesgos del proyecto.
 
 
-== Entregables
+== Fase 1
+
+La Fase 1 consiste en que hagas una primera versión de tu arquitectura
+en un conjunto de documentos que te ayuden a expresarla.
+
+=== Entregables
 
 Base de conocimientos que exprese la arquitectura del sistema de la forma más
 más clara posible. El conjunto de documentos a entregar será determinado
-por el proyecto que desarrolles. Y la visión de este cuso es que se debe entregar
-la mínima documentación necesaria.
+por el proyecto que desarrolles y por lo tanto no te podemos dar una lista definitiva.
+La visión de este cuso es que se debe entregar la mínima documentación necesaria.
 
 Fecha Límite de entrega: 12 de Agosto de 2024
 
 == Fase 2
 
-Para la fase dos del prpoyedcto final, se entregará la base de conocimientos
+Para la *Fase 2* del prpoyecto final, los tutores entregaremos la base de conocimientos
 a otro equipo que haya hehcho también su entrega final para que sea evaluada.
 
-Lo que se espera de esta etapa es que el equipo que recibe la base de documentción
+Lo que se espera de esta etapa es que el equipo que recibe la base de documentación
 **evalue** la arquitectura del equpo que entrega y se tenga la cominicación
 necesaria para implementar las mejoras o defender las decisiones.
+
+El equipo revisor y el equipo evaluado programarán sesiones para revisar las 
+observaciones y se espera que estas revisiones sean implementadas y comentadas.
 
 == Entregables Fase 2
 
 En esta etapa se espera un reporte del análisis de la arquitectura
-y cómo se resolvieron los puntos que se encontraron. El formato es libre
+y cómo se resolvieron los puntos que se encontraron, entregado por el equipo revisor.
+
+Este análisis puede ser entregado como un documento único o como un conjunto de
+documentos revisados con las obeservaciones hechas.
 
 == Evaluación final
 
--> Plantillas completas
--> Lista de documento
-->
+Por cada par de equipos/proyectos revisaremos:
 
+. Conjunto de documentos de la base de conocimientos final. En esta revisión se considerará:
+.. Exposición de problema desde el punto de vista de negocio
+.. Análisis de *atributos artquitecturales*
+.. Propuestas de *tácticas* y/o patrones de arquitectura para cumplir con los atributos
+arquitecturales
+.. Claridad en la exposición de la arquitectura 
+. Si el software ya está en operación, los cambios hechos a la arquitectura mediante ADR's
+. Revisiones hechas al equipo contrario (Documento de observaciones o conjunto de documentos
+originales con comentarios)
