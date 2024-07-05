@@ -1,3 +1,84 @@
 = Caso práctico 1: Sistema para administrar una caratera de créditos
 
+Primer caso práctico para el curso de Arquitectura de Software
+de Código Facilito
+
+Ideas:
+
+- Empresa pequeña que quiere digitalizar su proceso de solicitud de créditos
+- Necesidad de integración con sistemas externos (buró de crédito)
+- Preocupación por la seguridad de los datos personales
+- Posible crecimiento futuro
+- Necesidad de generar reportes para toma de decisiones
+- Posible uso de dispositivos móviles para captura de solicitudes
+- Requisito de alta disponibilidad durante horario laboral
+- Posible necesidad de escalabilidad en el futuro
+
+Información a ocultar:
+
+- Detalles sobre la integración con el buró de crédito
+- Expectativas de crecimiento a mediano plazo
+- Necesidad de acceso móvil para los agentes de crédito
+- Requisitos específicos de seguridad y cumplimiento normativo
+
+Atributos de calidad relevantes:
+
+- Seguridad
+- Disponibilidad
+- Usabilidad
+- Interoperabilidad
+- Modificabilidad
+
+Tácticas arquitectónicas potenciales:
+
+- Autenticación y autorización robustas
+- Encriptación de datos sensibles
+- Diseño modular para facilitar futuras modificaciones
+- API RESTful para integración con sistemas externos
+- Diseño responsivo para acceso móvil
+
+== Caso práctico
+
+1. Descripción corta del problema:
+Una pequeña empresa de créditos personales busca implementar un sistema para capturar y procesar solicitudes de crédito de manera digital, mejorando la eficiencia y reduciendo errores en el proceso actual que es mayormente manual.
+
+2. Descripción detallada del problema:
+Créditos Rápidos S.A. es una empresa con menos de 100 usuarios diarios que ofrece préstamos personales a clientes en una ciudad mediana. Actualmente, el proceso de solicitud de créditos se realiza de forma manual, lo que resulta en errores, retrasos y una experiencia poco satisfactoria para los clientes.
+
+La empresa desea implementar un sistema que permita:
+
+- Capturar los datos de los solicitantes de crédito de manera digital.
+- Realizar una evaluación preliminar de la solicitud basada en reglas predefinidas.
+- Generar reportes para el análisis de las solicitudes y la toma de decisiones.
+- Mantener un registro seguro de todas las transacciones y datos de los clientes.
+
+El sistema debe ser fácil de usar para los empleados de la empresa y debe estar disponible durante el horario laboral sin interrupciones. Además, debe cumplir con las regulaciones locales sobre el manejo de datos personales y financieros.
+
+3. Información que vamos a ocultar para que el alumno la obtenga:
+
+- Detalles sobre la necesidad de integración con un buró de crédito externo.
+- Expectativas de crecimiento de la empresa en los próximos 2-3 años.
+- Requisito de acceso al sistema desde dispositivos móviles para los agentes de crédito que trabajan en campo.
+- Necesidad de cumplir con estándares específicos de seguridad en la industria financiera.
+
+4. Atributos arquitecturales o de calidad que resaltan en este caso práctico:
+
+- Seguridad: Protección de datos sensibles de los clientes.
+- Disponibilidad: Sistema operativo durante horario laboral sin interrupciones.
+- Usabilidad: Interfaz intuitiva para los empleados de la empresa.
+- Interoperabilidad: Potencial integración con sistemas externos.
+- Modificabilidad: Capacidad de adaptar el sistema a futuros cambios en el negocio.
+
+5. Tácticas arquitectónicas convenientes:
+
+- Implementar un sistema robusto de autenticación y autorización.
+- Utilizar encriptación para proteger datos sensibles en tránsito y en reposo.
+- Diseñar una arquitectura modular que permita futuras expansiones y modificaciones.
+- Desarrollar una API RESTful para facilitar la integración con sistemas externos.
+- Implementar un diseño responsivo que permita el acceso desde diferentes dispositivos.
+- Utilizar un sistema de caché y balanceo de carga para mejorar la disponibilidad y el rendimiento.
+- Implementar un sistema de logging y monitoreo para facilitar la detección y resolución de problemas.
+
+== Criterios de evaluación
+
 
