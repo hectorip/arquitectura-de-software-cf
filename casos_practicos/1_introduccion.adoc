@@ -81,7 +81,7 @@ El sistema debe ser fácil de usar para los empleados de la empresa y debe estar
 
 == Criterios de evaluación
 
-1. Completitud 
-2.
-3.
-4.
+. Completitud de la documentación
+. Uso de las tácticas de arquitectura y su relación con los atributos arquitectónicos
+. Investigación de la información no revelada
+. Presentación y defensa de la solución
