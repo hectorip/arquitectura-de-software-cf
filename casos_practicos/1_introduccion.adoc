@@ -51,6 +51,7 @@ La empresa desea implementar un sistema que permita:
 - Realizar una evaluación preliminar de la solicitud basada en reglas predefinidas.
 - Generar reportes para el análisis de las solicitudes y la toma de decisiones.
 - Mantener un registro seguro de todas las transacciones y datos de los clientes.
+- Subir los documentos necesarios para comprobar sus datos.
 
 El sistema debe ser fácil de usar para los empleados de la empresa y debe estar disponible durante el horario laboral sin interrupciones. Además, debe cumplir con las regulaciones locales sobre el manejo de datos personales y financieros.
 
@@ -69,6 +70,7 @@ El sistema debe ser fácil de usar para los empleados de la empresa y debe estar
 - Interoperabilidad: Potencial integración con sistemas externos.
 - Modificabilidad: Capacidad de adaptar el sistema a futuros cambios en el negocio.
 
+
 5. Tácticas arquitectónicas convenientes:
 
 - Implementar un sistema robusto de autenticación y autorización.
@@ -79,9 +81,11 @@ El sistema debe ser fácil de usar para los empleados de la empresa y debe estar
 - Utilizar un sistema de caché y balanceo de carga para mejorar la disponibilidad y el rendimiento.
 - Implementar un sistema de logging y monitoreo para facilitar la detección y resolución de problemas.
 
+
 == Criterios de evaluación
 
 . Completitud de la documentación
 . Uso de las tácticas de arquitectura y su relación con los atributos arquitectónicos
 . Investigación de la información no revelada
 . Presentación y defensa de la solución
+

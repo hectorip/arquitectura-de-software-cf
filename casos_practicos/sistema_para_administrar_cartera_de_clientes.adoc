@@ -1,0 +1,35 @@
+== Sistema de administrción de solicitudes de crédito
+
+Este es un pequeño ejercicio de arquitectura de software para ayudarte a poner en práctica
+lo aprendido en el curso.
+
+== Intro
+
+Una pequeña empresa de **créditos personales** busca implementar un sistema para capturar y
+procesar solicitudes de crédito de manera digital, mejorando la eficiencia y reduciendo
+errores en el proceso actual que es mayormente manual.
+
+== Descripción
+
+Créditos Rata Rápida S.A. es una empresa que ofrece préstamos personales a clientes en
+una ciudad mediana. Actualmente, el proceso de solicitud de créditos se realiza de forma
+manual, lo que resulta en errores, retrasos y una experiencia poco satisfactoria para los clientes.
+
+La empresa desea implementar un sistema que permita:
+
+- Capturar los datos de los solicitantes de crédito de manera digital.
+- Realizar una evaluación preliminar de la solicitud basada en reglas predefinidas.
+- Generar reportes para el análisis de las solicitudes y la toma de decisiones.
+- Mantener un registro seguro de todas las transacciones y datos de los clientes.
+- Subir los documentos necesarios para comprobar sus datos.
+
+El sistema debe ser fácil de usar para los empleados de la empresa y debe estar disponible durante
+el horario laboral sin interrupciones. Además, debe cumplir con las regulaciones
+locales sobre el manejo de datos personales y financieros.
+
+== Criterios de evaluación
+
+. Completitud de la documentación
+. Uso de las tácticas de arquitectura y su relación con los atributos arquitectónicos
+. Investigación de la información no revelada
+. Presentación y defensa de la solución
