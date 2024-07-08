@@ -1,3 +1,9 @@
-== Sistema para la venta de vuelos privados
+= Sistema para la venta de vuelos privados
 
+En este caso práctico nos centraremos en la conexión con sistemas externos
+esenciales y en la creación de una aplicación para atender a los cleintes.
 
+== Intro
+
+La areolinea "Vuelos para Ricky Ricón", quiere crear un sistema de venta de
+vuelos privados para sus clientes.
