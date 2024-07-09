@@ -7,3 +7,84 @@ esenciales y en la creación de una aplicación para atender a los cleintes.
 
 La areolinea "Vuelos para Ricky Ricón", quiere crear un sistema de venta de
 vuelos privados para sus clientes.
+
+== Descripción
+
+<scratchpad>
+Ideas para el caso práctico:
+
+- Empresa de vuelos privados que quiere expandir su negocio
+- Necesidad de un sistema de reservas en línea
+- Clientes exigentes que requieren alta disponibilidad y seguridad
+- Posibilidad de integración con sistemas de pago y CRM
+- Escalabilidad para manejar picos de demanda
+- Cumplimiento de regulaciones de aviación
+- Información sensible de clientes VIP
+- Posible expansión internacional en el futuro
+
+Información a ocultar:
+
+Detalles sobre la infraestructura actual
+Presupuesto exacto para el proyecto
+Planes de expansión internacional
+Regulaciones específicas del sector
+
+Atributos de calidad relevantes:
+
+Disponibilidad
+Seguridad
+Escalabilidad
+Interoperabilidad
+Usabilidad
+
+Tácticas arquitectónicas:
+
+Redundancia y replicación para alta disponibilidad
+Encriptación y autenticación robusta para seguridad
+Arquitectura de microservicios para escalabilidad
+APIs bien definidas para interoperabilidad
+Diseño responsive y UX centrado en el usuario para usabilidad
+</scratchpad>
+
+<caso>
+1. Descripción corta del problema:
+JetSetGo, una empresa mediana de vuelos privados con un
+gran volumen de operaciones, busca desarrollar un sistema de
+venta de vuelos en línea para expandir su negocio y mejorar la
+experiencia de sus clientes exigentes.
+
+Descripción detallada del problema:
+JetSetGo ha operado durante 10 años ofreciendo vuelos privados a ejecutivos y clientes VIP. Hasta ahora, las reservas se han manejado principalmente por teléfono y correo electrónico. La empresa quiere modernizar sus operaciones implementando un sistema de reservas en línea que permita a los clientes buscar, reservar y pagar vuelos de manera autónoma.
+
+El sistema debe ser capaz de manejar información sensible de los clientes, integrarse con los sistemas de pago existentes y potencialmente con un CRM en el futuro. Además, debe ser lo suficientemente robusto para manejar picos de demanda durante temporadas altas o eventos especiales.
+La dirección de JetSetGo ha expresado su preocupación por la seguridad de los datos de los clientes y la disponibilidad del sistema, ya que cualquier tiempo de inactividad podría resultar en pérdidas significativas. También han mencionado la posibilidad de expandir sus operaciones a otros países en el futuro.
+
+Información que vamos a ocultar para que el alumno la obtenga:
+
+Detalles sobre la infraestructura tecnológica actual de la empresa
+Presupuesto específico asignado al proyecto
+Planes concretos de expansión internacional
+Regulaciones específicas del sector de la aviación privada que puedan afectar al diseño del sistema
+Volumen exacto de transacciones actuales y proyectadas
+
+
+Atributos arquitecturales o de calidad que resaltan en este caso práctico:
+
+
+Disponibilidad: El sistema debe estar operativo 24/7 con mínimo tiempo de inactividad
+Seguridad: Protección de datos sensibles de clientes VIP
+Escalabilidad: Capacidad para manejar aumentos en la demanda
+Interoperabilidad: Integración con sistemas de pago y potencialmente con CRM
+Usabilidad: Interfaz intuitiva para clientes exigentes
+
+
+Tácticas arquitectónicas convenientes:
+
+
+Implementar redundancia y replicación de servidores para garantizar alta disponibilidad
+Utilizar encriptación de datos y autenticación robusta para asegurar la información sensible
+Diseñar una arquitectura de microservicios para permitir escalabilidad y facilitar futuras expansiones
+Desarrollar APIs bien documentadas para facilitar la integración con otros sistemas
+Aplicar principios de diseño responsive y UX centrado en el usuario para mejorar la usabilidad
+
+</caso>
