@@ -12,11 +12,9 @@ clientes individuales.
 
 == Descripción
 
-gran volumen de operaciones, busca desarrollar un sistema de
 venta de vuelos en línea para expandir su negocio y mejorar la
 experiencia de sus clientes exigentes.
 
-Descripción detallada del problema:
 JetSetGo ha operado durante 10 años ofreciendo vuelos privados a ejecutivos y clientes VIP. Hasta ahora, las reservas se han manejado principalmente por teléfono y correo electrónico. La empresa quiere modernizar sus operaciones implementando un sistema de reservas en línea que permita a los clientes buscar, reservar y pagar vuelos de manera autónoma.
 
 El sistema debe ser capaz de manejar información sensible de los clientes, integrarse con los sistemas de pago existentes y potencialmente con un CRM en el futuro. Además, debe ser lo suficientemente robusto para manejar picos de demanda durante temporadas altas o eventos especiales.
