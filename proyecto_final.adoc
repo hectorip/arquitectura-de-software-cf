@@ -87,3 +87,4 @@ arquitecturales
 . Si el software ya está en operación, los cambios hechos a la arquitectura mediante ADR's
 . Revisiones hechas al equipo contrario (Documento de observaciones o conjunto de documentos
 originales con comentarios)
+
