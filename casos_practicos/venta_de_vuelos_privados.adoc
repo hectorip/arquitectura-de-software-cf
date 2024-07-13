@@ -6,9 +6,8 @@ esenciales y en la creación de una aplicación para atender a los cleintes.
 == Intro
 
 La areolinea "Aeronática Opulenta", quiere crear un sistema de venta de
-vuelos privados para sus clientes. La empresa tiene cerca de 3000 clientes,
-tanto individuales como empresas, pero el sistema está creado para sus
-clientes individuales.
+vuelos privados para sus clientes muy opulentos, clarmente. La empresa tiene cerca de 3000 clientes,
+tanto individuales como empresas.
 
 == Descripción
 
