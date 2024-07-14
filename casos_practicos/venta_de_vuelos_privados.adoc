@@ -5,46 +5,37 @@ esenciales y en la creación de una aplicación para atender a los cleintes.
 
 == Intro
 
-La areolinea "Aeronática Opulenta", quiere crear un sistema de venta de
-vuelos privados para sus clientes muy opulentos, clarmente. La empresa tiene cerca de 3000 clientes,
-tanto individuales como empresas.
+La areolinea "Aeronaútica Opulenta", quiere crear un sistema de venta de
+vuelos privados para sus clientes muy opulentos. La empresa tiene cerca de 300 clientes,
+tanto individuales como empresas, pero solución es para clientes personales.
 
 == Descripción
 
-venta de vuelos en línea para expandir su negocio y mejorar la
-experiencia de sus clientes exigentes.
+Aeronaútica Opulenta ha operado durante más de 10 años y actualmente
+está en un punto crítico porque su rentabilidad es muy baja, aunque sus ventas grandes.
+Quiere hacer un sistema para vender vuelos directamente a sus clientes, sin intermediarios.
 
-JetSetGo ha operado durante 10 años ofreciendo vuelos privados a ejecutivos y clientes VIP. Hasta ahora, las reservas se han manejado principalmente por teléfono y correo electrónico. La empresa quiere modernizar sus operaciones implementando un sistema de reservas en línea que permita a los clientes buscar, reservar y pagar vuelos de manera autónoma.
+El sistema debe ser capaz de manejar información sensible de los clientes,
+integrarse con los sistemas de pago existentes, considerando que los proveedores
+de soluciones de pago son muy cautos con las cantidades que la empresa manja (desde 10k hasta 100k USD por vuelo).
 
-El sistema debe ser capaz de manejar información sensible de los clientes, integrarse con los sistemas de pago existentes y potencialmente con un CRM en el futuro. Además, debe ser lo suficientemente robusto para manejar picos de demanda durante temporadas altas o eventos especiales.
-La dirección de JetSetGo ha expresado su preocupación por la seguridad de los datos de los clientes y la disponibilidad del sistema, ya que cualquier tiempo de inactividad podría resultar en pérdidas significativas. También han mencionado la posibilidad de expandir sus operaciones a otros países en el futuro.
+Se venderán tres tipos de vuelos:
 
-Información que vamos a ocultar para que el alumno la obtenga:
+- Charters: Vuelos privados solicitados por un cliente.
+- Vuelos programados: Vuelos aprovechados por la empresa al tener piernas vacías.
+- Vuelos compartidos: Vuelos que se venden a varios clientes.
 
-Detalles sobre la infraestructura tecnológica actual de la empresa
-Presupuesto específico asignado al proyecto
-Planes concretos de expansión internacional
-Regulaciones específicas del sector de la aviación privada que puedan afectar al diseño del sistema
-Volumen exacto de transacciones actuales y proyectadas
+El sistema de agendado de vuelos es muy complejo y se maneja en un sistemao externo
+con servidores en Europa. Este sistema, basados en la experiencia, falla seguido, es tardado 
+en contestar y a veces se cae por un tiempo considerable. Además, un ticket de soporte tarda varias semanas
+en ser atendido. Este sistema no se puede cambiar y tenemos que trabajar con él porque nos da información importante.
 
+== Detalles de Opeación
 
-Atributos arquitecturales o de calidad que resaltan en este caso práctico:
+- Los clientes se pueden registrar solos, pero tienen que ser aprboardos por un administrador.
+- Los pagos se pueden hacer con tarjeta de crédito o transferencia bancaria.
+- Los clientes son personas importantes muy sensibles con su privacidad y seguridad.
+- Hacer un vuelo es un compromiso fuerte, por lo que el sistema no puede decir que va a hacer un vuelo si no está seguro.
+- No puede haber solicitudes o cancelaciones de vuelos en más de 6 meses y menos de 24 horas de anticipación.
+- Las cancelaciones y situaciones extraordinarias se manejan por un administrador, fuera de la aplicación.
 
-
-Disponibilidad: El sistema debe estar operativo 24/7 con mínimo tiempo de inactividad
-Seguridad: Protección de datos sensibles de clientes VIP
-Escalabilidad: Capacidad para manejar aumentos en la demanda
-Interoperabilidad: Integración con sistemas de pago y potencialmente con CRM
-Usabilidad: Interfaz intuitiva para clientes exigentes
-
-
-Tácticas arquitectónicas convenientes:
-
-
-Implementar redundancia y replicación de servidores para garantizar alta disponibilidad
-Utilizar encriptación de datos y autenticación robusta para asegurar la información sensible
-Diseñar una arquitectura de microservicios para permitir escalabilidad y facilitar futuras expansiones
-Desarrollar APIs bien documentadas para facilitar la integración con otros sistemas
-Aplicar principios de diseño responsive y UX centrado en el usuario para mejorar la usabilidad
-
-</caso>
