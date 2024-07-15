@@ -33,3 +33,4 @@ locales sobre el manejo de datos personales y financieros.
 . Uso de las tácticas de arquitectura y su relación con los atributos arquitectónicos
 . Investigación de la información no revelada
 . Presentación y defensa de la solución
+
