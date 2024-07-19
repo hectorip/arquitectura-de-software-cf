@@ -1,0 +1,9 @@
+= Entrega de intérprete
+
+
+Requisitos para la entrega de intérprete:
+
+1. Repositorio de código (asegúrate de que sea público o compartir los accesos a todos los jueces).
+2. Documentación para correr el proyecto: lo más importante es instructivo claro para correr el proyecto.
+3. Documentación para correr las pruebas: si tienes pruebas, es importante que expliques cómo correrlas.
+4. Video.
