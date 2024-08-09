@@ -39,7 +39,6 @@ La excepción al punto anterior es aquellos proyectos en los que se determine
 que se requiere un análisis exhaustivo de la arquitectura antes de comenzar
 con la programación, por la naturaleza y los riesgos del proyecto.
 
-
 == Fase 1
 
 La Fase 1 consiste en que hagas una primera versión de tu arquitectura
