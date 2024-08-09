@@ -2,9 +2,9 @@
 
 ---
 
-*Fecha de entrega de primera fase*: 12 de Agosto de 2024
+*Fecha de entrega de primera fase*: 14 de Septiembre de 2024
 
-*Fecha de entrega de segunda fase*: 14 de Septiembre de 2024
+*Fecha de entrega de segunda fase*: 14 de Octubre de 2024
 
 En este documento encontrarás todos los requisitos y el proceso para entregar el proyecto final del Bootcamp.
 
