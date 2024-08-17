@@ -1,57 +1,41 @@
-<scratchpad>
-Ideas para el caso práctico:
-- Sistema de pagos para áreas con conectividad limitada
-- Empresa multinacional con presencia global
-- Desafíos de seguridad y sincronización de datos
-- Necesidad de alta disponibilidad y rendimiento
-- Escalabilidad para manejar millones de transacciones
-- Integración con diferentes sistemas bancarios y de telecomunicaciones
-- Manejo de múltiples monedas y tipos de cambio
-- Resistencia a fallos y recuperación ante desastres
-</scratchpad>
+== Caso Práctico: Sistema de Pagos Offline
 
-<caso>
+*EventosCadaVezMásCaros* quiere implementar un sistema de pagos offline
+para sus eventos musicales y festivales. Normalmente, por la cantidad de personas
+que asiste, los problemas de conectividad son comunes y las personas tienen poco o nulo
+acceso a internet. Los lugares en los que se realiza el evento no tienen WiFi confiable y
+las redes celulares funcionan intermitentemente.
 
-*EventosCadaVezMásCaros* quiere implementar un sistema de pagos offline para sus eventos musicales y festivales.
+== Descripción detallada del problema
 
+*EventosCadaVezMásCaros* hace eventos musicales en diferentes partes del mundo. Gran 
+parte de las ganancias de estos eventos vienen de la venta a precios premium de 
+alimentos y bebidas en el lugar. Sin embargo, el manejo de efectivo es riesgoso y poco
+conveniente ("No tengo vuelto", "Ya tiré mi efectivo", "Tengo que contar lo de la venta del día" etc.).
+Es por eso que la empresa ha usado soluciones de pago sin efectivo en sus eventos, en los que 
+los asitentes tienen que adquirir una pulsera con un chip NFC que les permite hacer pagos en los
+puntos de venta y con los vendedores ambulantes en los eventos. Los vendedores tienen cada uno un
+dispositivo que puede leer los NFC y autorizar la venta.
 
-busca desarrollar un sistema de pagos offline mediante celulares para expandir sus servicios en regiones con conectividad limitada.
-2. Descripción detallada del problema:
-GlobalPay opera en más de 100 países y busca ampliar su alcance a zonas rurales y mercados emergentes donde la conectividad a internet es intermitente o inexistente. El nuevo sistema debe permitir a los usuarios realizar pagos seguros utilizando sus teléfonos celulares, incluso cuando no hay conexión a internet disponible.
+Sin embargo, al pertenecer a una empresa externa, el sistema es una gran fuga de 
+ganancias (las comisiones son muy altas) y un problema logístico del que los
+clientes siempre se han quejado, porque tienen que obtener la pulsea antes, sin pulsera
+no pueden comprar, tienen que "recargarla" y finamlmente hacer devoluciones es un problema para todos.
 
-El sistema debe ser capaz de:
+Además, se nota una merma de inventario del entre el 15 y 20% en cada evento, nos hemos dado
+cuenta que los vendedores a veces venden el inventario en efectivo sin reportalo y que intentan
+incluso dañar los POVs para perder la información reportada.
+
+Necesitamos un sistema que nos ayude a resolver los puntos logísticos antes mencionados así como 
+disminuir la merma de inventario al máximo posible.
+
+Algunas ideas que tenemos sobr lo que necesitamos:
 
 - Procesar transacciones offline y sincronizarlas cuando haya conexión disponible.
-- Manejar múltiples monedas y tipos de cambio.
-- Integrarse con diversos sistemas bancarios y de telecomunicaciones en diferentes países.
-- Escalar para manejar millones de transacciones diarias.
-- Cumplir con las regulaciones financieras y de protección de datos de cada país.
-- Proporcionar una experiencia de usuario consistente en diferentes dispositivos y sistemas operativos.
+- Este sistema no estará en uso la mayoría del tiempo, pero cunado se usa se procesarán un aproximado de 
+500,000 transacciones por día.
+- Evitar el abuso del sistema para reducir el robo.
 
-3. Información que vamos a ocultar para que el alumno la obtenga:
+Estamos abiertos al uso de hardware especializado, pero al ser eventos esporádico no podemos
+dejarlo instaldo permanentemente.
 
-- Detalles sobre los requisitos de rendimiento y escalabilidad (por ejemplo, número exacto de transacciones por segundo).
-- Información específica sobre las regulaciones en diferentes países.
-- Limitaciones técnicas de los dispositivos móviles en áreas rurales.
-- Requisitos de seguridad y encriptación para transacciones offline.
-- Detalles sobre la infraestructura existente de GlobalPay y sus sistemas legacy.
-
-4. Atributos arquitecturales o de calidad que resaltan en este caso práctico:
-
-- Disponibilidad
-- Seguridad
-- Rendimiento
-- Escalabilidad
-- Interoperabilidad
-- Modificabilidad
-- Usabilidad
-
-5. Tácticas arquitectónicas convenientes:
-
-- Diseño de arquitectura distribuida con nodos locales para procesamiento offline.
-- Implementación de mecanismos de sincronización y resolución de conflictos.
-- Uso de criptografía y técnicas de seguridad para proteger transacciones offline.
-- Diseño modular para facilitar la adaptación a diferentes regulaciones y sistemas bancarios.
-- Implementación de caché y procesamiento local para mejorar el rendimiento en condiciones de baja conectividad.
-- Uso de patrones de diseño como Event Sourcing para manejar la sincronización de datos.
-- Implementación de una arquitectura de microservicios para mejorar la escalabilidad y el mantenimiento.
