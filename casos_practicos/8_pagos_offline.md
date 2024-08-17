@@ -1,0 +1,55 @@
+<scratchpad>
+Ideas para el caso práctico:
+- Sistema de pagos para áreas con conectividad limitada
+- Empresa multinacional con presencia global
+- Desafíos de seguridad y sincronización de datos
+- Necesidad de alta disponibilidad y rendimiento
+- Consideraciones sobre regulaciones internacionales
+- Escalabilidad para manejar millones de transacciones
+- Integración con diferentes sistemas bancarios y de telecomunicaciones
+- Manejo de múltiples monedas y tipos de cambio
+- Resistencia a fallos y recuperación ante desastres
+</scratchpad>
+
+<caso>
+
+GlobalPay, una empresa líder en tecnología financiera, busca desarrollar un sistema de pagos offline mediante celulares para expandir sus servicios en regiones con conectividad limitada.
+2. Descripción detallada del problema:
+GlobalPay opera en más de 100 países y busca ampliar su alcance a zonas rurales y mercados emergentes donde la conectividad a internet es intermitente o inexistente. El nuevo sistema debe permitir a los usuarios realizar pagos seguros utilizando sus teléfonos celulares, incluso cuando no hay conexión a internet disponible.
+
+El sistema debe ser capaz de:
+
+- Procesar transacciones offline y sincronizarlas cuando haya conexión disponible.
+- Manejar múltiples monedas y tipos de cambio.
+- Integrarse con diversos sistemas bancarios y de telecomunicaciones en diferentes países.
+- Escalar para manejar millones de transacciones diarias.
+- Cumplir con las regulaciones financieras y de protección de datos de cada país.
+- Proporcionar una experiencia de usuario consistente en diferentes dispositivos y sistemas operativos.
+
+3. Información que vamos a ocultar para que el alumno la obtenga:
+
+- Detalles sobre los requisitos de rendimiento y escalabilidad (por ejemplo, número exacto de transacciones por segundo).
+- Información específica sobre las regulaciones en diferentes países.
+- Limitaciones técnicas de los dispositivos móviles en áreas rurales.
+- Requisitos de seguridad y encriptación para transacciones offline.
+- Detalles sobre la infraestructura existente de GlobalPay y sus sistemas legacy.
+
+4. Atributos arquitecturales o de calidad que resaltan en este caso práctico:
+
+- Disponibilidad
+- Seguridad
+- Rendimiento
+- Escalabilidad
+- Interoperabilidad
+- Modificabilidad
+- Usabilidad
+
+5. Tácticas arquitectónicas convenientes:
+
+- Diseño de arquitectura distribuida con nodos locales para procesamiento offline.
+- Implementación de mecanismos de sincronización y resolución de conflictos.
+- Uso de criptografía y técnicas de seguridad para proteger transacciones offline.
+- Diseño modular para facilitar la adaptación a diferentes regulaciones y sistemas bancarios.
+- Implementación de caché y procesamiento local para mejorar el rendimiento en condiciones de baja conectividad.
+- Uso de patrones de diseño como Event Sourcing para manejar la sincronización de datos.
+- Implementación de una arquitectura de microservicios para mejorar la escalabilidad y el mantenimiento.
