@@ -4,7 +4,6 @@ Ideas para el caso práctico:
 - Empresa multinacional con presencia global
 - Desafíos de seguridad y sincronización de datos
 - Necesidad de alta disponibilidad y rendimiento
-- Consideraciones sobre regulaciones internacionales
 - Escalabilidad para manejar millones de transacciones
 - Integración con diferentes sistemas bancarios y de telecomunicaciones
 - Manejo de múltiples monedas y tipos de cambio
@@ -13,7 +12,10 @@ Ideas para el caso práctico:
 
 <caso>
 
-GlobalPay, una empresa líder en tecnología financiera, busca desarrollar un sistema de pagos offline mediante celulares para expandir sus servicios en regiones con conectividad limitada.
+*EventosCadaVezMásCaros* quiere implementar un sistema de pagos offline para sus eventos musicales y festivales.
+
+
+busca desarrollar un sistema de pagos offline mediante celulares para expandir sus servicios en regiones con conectividad limitada.
 2. Descripción detallada del problema:
 GlobalPay opera en más de 100 países y busca ampliar su alcance a zonas rurales y mercados emergentes donde la conectividad a internet es intermitente o inexistente. El nuevo sistema debe permitir a los usuarios realizar pagos seguros utilizando sus teléfonos celulares, incluso cuando no hay conexión a internet disponible.
 
