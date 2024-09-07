@@ -1,0 +1,7 @@
+== Resumen y Repaso
+
+En esta clase vamos a hacer un repaso de los temas que vimos durante el curso,
+así como
+
+
+=== De qué trata la arquitectura de software
