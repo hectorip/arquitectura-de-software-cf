@@ -5,3 +5,7 @@ así como
 
 
 === De qué trata la arquitectura de software
+
+La arquitectura de software se encarga de definir la estructura de un sistema
+o módulo de software con el objetivo de cumplir con ciertos requisitos definidos
+por el negocio.
